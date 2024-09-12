@@ -1,0 +1,15 @@
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\bin\Debug\net8.0\Abstraindo-Um-Curso-Com-POO.exe
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\bin\Debug\net8.0\Abstraindo-Um-Curso-Com-POO.deps.json
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\bin\Debug\net8.0\Abstraindo-Um-Curso-Com-POO.runtimeconfig.json
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\bin\Debug\net8.0\Abstraindo-Um-Curso-Com-POO.dll
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\bin\Debug\net8.0\Abstraindo-Um-Curso-Com-POO.pdb
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\obj\Debug\net8.0\Abstraindo-Um-Curso-Com-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\obj\Debug\net8.0\Abstraindo-Um-Curso-Com-POO.AssemblyInfoInputs.cache
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\obj\Debug\net8.0\Abstraindo-Um-Curso-Com-POO.AssemblyInfo.cs
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\obj\Debug\net8.0\Abstraindo-Um-Curso-Com-POO.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\obj\Debug\net8.0\Abstraindo-Um-Curso-Com-POO.sourcelink.json
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\obj\Debug\net8.0\Abstraindo-Um-Curso-Com-POO.dll
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\obj\Debug\net8.0\refint\Abstraindo-Um-Curso-Com-POO.dll
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\obj\Debug\net8.0\Abstraindo-Um-Curso-Com-POO.pdb
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\obj\Debug\net8.0\Abstraindo-Um-Curso-Com-POO.genruntimeconfig.cache
+C:\Users\Adilson\Documents\Abstraindo-Um-Curso-Com-POO\obj\Debug\net8.0\ref\Abstraindo-Um-Curso-Com-POO.dll
