@@ -5,12 +5,11 @@ using System.Threading.Tasks;
 
 namespace Abstraindo_Um_Curso_Com_POO.Models
 {
-    public class Pessoa
+    public class Aluno
     {
-        public Pessoa(string nome, string sobrenome, int idade)
+        public Aluno(string nome, int idade)
         {
             Nome = nome;
-            Sobrenome = sobrenome;
             Idade = idade;
         }
         private string _nome;
@@ -28,22 +27,6 @@ namespace Abstraindo_Um_Curso_Com_POO.Models
                 _nome = value;
             } 
         }
-        private string _sobrenome;
-        public string Sobrenome 
-        {
-            get => _sobrenome;
-            
-            set
-            {
-                if (value == "")
-                {
-                    throw new ArgumentException("O sobrenome não pode ser vazio.");
-                }
-
-                _sobrenome = value;
-            } 
-        }
-        public string NomeCompleto => $"{Nome} {Sobrenome}";
         private int _idade;
         public int Idade 
         {
